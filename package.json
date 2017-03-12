@@ -1,0 +1,10 @@
+{
+  "name": "ac-log",
+  "version": "1.0.0",
+  "author": "Oliver Leics <oliver.leics@gmail.com>",
+  "license": "MIT",
+  "repository": "oleics/node-ac-log",
+  "dependencies": {
+    "pino": "^2.15.0"
+  }
+}
